@@ -137,6 +137,4 @@ module PVN
         puts "Version: #{PVN::VERSION}"
     end
 end
-R = PVN.read("../PandaVariableNotation/examples/example.pvn")
-PVN.list(R)
 
