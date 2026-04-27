@@ -2,7 +2,7 @@
 
 # The official gem for PVN
 
-## The documentation for PVN as well as examples are on  [https://github.com/LordAxi/PandaVariableNotation](https://github.com/LordAxi/PandaVariableNotation)
+## The documentation for PVN as well as examples are on [LordAxi/PandaVariableNotation](https://github.com/LordAxi/PandaVariableNotation)
 ## The documentation for using this gem is in this README.
 
 ## Speed 
